@@ -21,7 +21,7 @@ Selain itu, terdapat banyak hal yang bisa dilakukan di website Kantin Kejujuran 
 ## Cara Menggunakan dan Mengakses Website
 Untuk mengakses website Kantin Kejujuran, silahkan kunjungi laman web [Kantin Kejujuran](https://frz-cmpfst14-kantin-kejujuran.herokuapp.com/) pada browser masing masing.
 
-Setelah itu pengguna akan diarahkan ke laman website Kantin Kejujuran. Pada laman tersebut pengguna dapat melihat isi kanti kejujuran dengan menekan **Get Inside** pada bar navigasi. Namun karena pengguna tidak melakukan login, maka pengguna hanya dapat melihat lihat isi web saja. Untuk dapat melakukan aktivitas dan menggunakan kantin kejujuran, Pengguna perlu meregistrasi diri dahulu. 
+Setelah itu pengguna akan diarahkan ke laman website Kantin Kejujuran. Pada laman tersebut pengguna dapat melihat isi kantin kejujuran dengan menekan **Get Inside** pada bar navigasi. Namun karena pengguna tidak melakukan login, maka pengguna hanya dapat melihat lihat isi web saja. Untuk dapat melakukan aktivitas dan menggunakan kantin kejujuran, Pengguna perlu meregistrasi diri dahulu. 
 
 - **Registrasi,**
 Registrasi dapat dilakukan pengguna dengan menekan **Register** pada bar navigasi. Kemudian pengguna akan diminta mengisi beebrapa data. Setelah mengisi data yang diminta, pengguna dapat menekan tombol submit untuk mengirim data pengguna. Data pengguna yang dikirim tersebut kemudian akan digunakan untuk melakukan login ke dalam Kantin Kejujuran. Jika Registrasi berhasil, maka pengguna akan dialihkan ke laman dengan tulisan "Congratulation" berlatar belakang warna hijau. Silahkan tekan "Click Here" untuk kembali ke laman sebelumnya dan melakukan login. Namun, jika gagal maka anda akan mendapatkan tulisan yang akan memandu anda supaya proses registrasi menjadi berhasil.
@@ -46,4 +46,6 @@ Untuk membayar atau menambah uang pada balance box, pengguna dapat menekan tombo
 Untuk mengurutkan items berdasarkan tanggal atau nama items, pengguna tinggal menekan tulisan **Sort items by** dan memilih pilihan pengurutan yang diinginkan. Items kemudian akan terurut otomatis sesuai pilihan pengguna
 
 ## Credits
-Semua gambar yang saya gunakan pada wensite ini didapatkan dari website https://unsplash.com/. Gambar bisa dicari pemiliknya dengan mencari nama produk pada gambar pada search bar atau mencari dengan kategori snacks, dirnks, foods pada search bar.
+1. Semua gambar yang saya gunakan pada wensite ini didapatkan dari website [Unsplash](https://unsplash.com/). Gambar bisa dicari pemiliknya dengan mencari nama produk pada gambar pada search bar atau mencari dengan kategori snacks, drinks, atau foods pada search bar.
+2. Web hosting yang saya gunakan untuk men-deploy website supaya bisa diakses dengan internet adalah [heroku](https://www.heroku.com/).
+3. Server database MySql yang digunakan pada website ini berasal dari [db4free.net](https://www.db4free.net/).
