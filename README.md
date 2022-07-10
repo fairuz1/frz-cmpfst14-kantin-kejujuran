@@ -49,3 +49,9 @@ Untuk mengurutkan items berdasarkan tanggal atau nama items, pengguna tinggal me
 1. Semua gambar yang saya gunakan pada website ini didapatkan dari website [Unsplash](https://unsplash.com/). Gambar bisa dicari pemiliknya dengan mencari nama produk pada gambar pada search bar atau mencari dengan kategori snacks, drinks, atau foods pada search bar.
 2. Web hosting yang saya gunakan untuk men-deploy website supaya bisa diakses dengan internet adalah [heroku](https://www.heroku.com/).
 3. Server database MySql yang digunakan pada website ini berasal dari [db4free.net](https://www.db4free.net/).
+
+## Testing
+Berikut adalah beberapa data login yang bisa digunakan untuk keperluan testing:
+1. user: 45615, password: qqqqqqqq1
+2. user: 41207, password: wwwwwwww1
+3. user: 11103, password: eeeeeeee1
