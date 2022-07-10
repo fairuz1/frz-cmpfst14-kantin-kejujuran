@@ -1,12 +1,12 @@
 # Website Kantin Kejujuran
-Website Kantin Kejujuran adalah sebuah website dinamik yang dibuat untuk menunjang pelaksanaan **Kantin Kejujuran** untuk siswa SD SEA Sentosa. Dalam pembuatannya, website ini menggunakan bahasa pemrograman **HTML**, **Javascript**, dan **CSS** beserta framework CSS berupa **Bootstrap** untuk membuat dan mengatur tampilan web supaya mudah digunakan dan responsif pada banyak perangkat. Website ini juga menggunakan bahasa pemrograman **PHP** dan **MySql** untuk mengatur bagian server dan database penyimpanan data siswa.
+**Website Kantin Kejujuran** adalah sebuah website dinamik yang dibuat untuk menunjang pelaksanaan **Kantin Kejujuran** untuk siswa SD SEA Sentosa. Dalam pembuatannya, website ini menggunakan bahasa pemrograman **HTML**, **Javascript**, dan **CSS** beserta framework CSS berupa **Bootstrap** untuk membuat dan mengatur tampilan web supaya mudah digunakan dan responsif pada banyak perangkat. Website ini juga menggunakan bahasa pemrograman **PHP** dan **MySql** untuk mengatur bagian server dan database penyimpanan data siswa.
 
 Website Kantin Kejujuran dijalankan pada server cloud milik **Heroku** dan menggunakan database milik **db4free**. Dengan demikian semua orang bisa mengakses website secara langsung dari internet. Untuk mengakses kode dan database dari website Kantin Kejujuran, silahkan kunjungi link berikut:
 
 link kode github: https://github.com/fairuz1/frz-cmpfst14-kantin-kejujuran
 link database: https://www.db4free.net/phpMyAdmin/ (**username**: fairuz1 **password**: compfestsea)
 
-** proses login ke database memang memakan waktu yang sedikit lama dari server, jadi silahkan ditunggu saja. Setelah masuk ke database nantinya, penggunaan database tidak akan selama login **
+**proses login ke database memang memakan waktu yang sedikit lama dari server, jadi silahkan ditunggu saja. Setelah masuk ke database nantinya, penggunaan database tidak akan selama login**
 
 ## Kegunaan Website
 Seperti kantin pada umumnya, Kantin Kejujuran merupakan kantin yang berada pada sebuah website. Namun, Kantin Kejujuran ini berbasis kejujuran dari semua siswa yang telah teregistrasi menjadi member di kantin ini. Dengan kata lain, kantin ini tidak memeiliki pemilik dan jika siswa ingin menjual atau membeli barang di kantin ini maka akan dilakukan sendiri sendiri dengan jujur.
