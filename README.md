@@ -4,8 +4,7 @@
 Website Kantin Kejujuran dijalankan pada server cloud milik **Heroku** dan menggunakan database milik **db4free**. Dengan demikian semua orang bisa mengakses website secara langsung dari internet. Untuk mengakses kode dan database dari website Kantin Kejujuran, silahkan kunjungi link berikut:
 
 link kode github: [frz-cmpfst14-kantin-kejujuran](https://github.com/fairuz1/frz-cmpfst14-kantin-kejujuran)
-
-link database: [db4Free.net](https://www.db4free.net/phpMyAdmin/) (**username**: fairuz1 **password**: compfestsea)
+link database: [db4Free.net](https://www.db4free.net/phpMyAdmin/) (**Username**: fairuz1 **Password**: compfestsea)
 
 **proses login ke database memang memakan waktu yang sedikit lama dari server, jadi silahkan ditunggu saja. Setelah masuk ke database nantinya, penggunaan database tidak akan selama login**
 
