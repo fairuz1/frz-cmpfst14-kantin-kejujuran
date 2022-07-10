@@ -1,0 +1,57 @@
+* {
+    font-family: 'Manrope', sans-serif;
+}
+
+.glass {
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.main-text {
+    font-weight: 600;
+    font-size: calc(3.5em + 2vw);
+}
+
+.supporter-text {
+    font-size: calc(1.5em + 0.75vw);
+}
+
+.btn-page {
+    font-size: calc(1.5em + 1vw);
+}
+
+.btn {
+    background-color: #3DB4BD;
+    border-color: #3DB4BD;
+    color: white;
+    font-weight: 500;
+}
+
+.btn:hover {
+    background-color: #0E1A18;
+    border-color: #0E1A18;
+    color: white;
+}
+
+.seperator-text {
+    font-size: calc(2em + 2vw);
+
+}
+
+a:hover {
+    font-weight: 600;
+    color: #3DB4BD;
+}
+
+.validation-text {
+    font-size: calc(0.75em + 0.25vw);
+    color: #C53D23;
+}
+
+.warning-login {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}

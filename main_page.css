@@ -1,0 +1,84 @@
+* {
+    font-family: 'Manrope', sans-serif;
+}
+
+.glass {
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+a {
+    text-decoration: none;
+    color: #0E1A18;
+}
+
+.heading-text {
+    font-size: calc(2em + 2vw);
+    font-weight: 700;
+}
+
+.main-text {
+    font-size: calc(1.5em + 2vw);
+}
+
+.description-text {
+    font-size: calc(1em + 0.75vw);
+}
+
+small {
+    font-size: calc(0.3em + 0.25vw);;
+}
+
+.date-text {
+    font-size: calc(0.75em + 0.25vw);;
+}
+
+.button {
+    background-color: #0E1A18;
+    color: white;
+    font-size: calc(1em + 1vw);
+}
+
+.button-normal {
+    background-color: #0E1A18;
+    color: white;
+    font-size: calc(1em + 0.5vw);
+}
+
+.button-normal:hover {
+    background-color: #3DB4BD;
+    color: white;
+}
+
+.button:hover {
+    background-color: #3DB4BD;
+    color: white;
+}
+
+.items-background {
+    background-color: #F1F1F1;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.anchor-data {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.warning-buy {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.login-buy {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
